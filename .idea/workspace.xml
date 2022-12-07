@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="561bd85f-58af-4817-b9c2-187a2cb922fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/testingfriscopage/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/pages/AlertsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/pages/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/pages/DeliveryInfoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/pages/LogInAndRegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/pages/MainShopPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/pages/PaymentMethodsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/pages/SideBarsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/test/CartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/test/DeliveryInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/test/LogInAndRegisterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/test/MainShopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/test/PaymentMethodsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/test/SideBarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/utils/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/utils/DriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/utils/SeleniumHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/utils/XPathPagesConstants.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FcYyZLLUQiZVfVQNvhIlBZCauN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.SideBarTest.chatStart">
+    <configuration name="LogInAndRegisterTest.allCheckboxesOnRegistrationPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Frisco_testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.friscotest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.friscotest.test" />
+      <option name="MAIN_CLASS_NAME" value="pl.friscotest.test.LogInAndRegisterTest" />
+      <option name="METHOD_NAME" value="allCheckboxesOnRegistrationPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogInAndRegisterTest.bottomBarOnRegistrationPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Frisco_testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.friscotest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.friscotest.test" />
+      <option name="MAIN_CLASS_NAME" value="pl.friscotest.test.LogInAndRegisterTest" />
+      <option name="METHOD_NAME" value="bottomBarOnRegistrationPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogInAndRegisterTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Frisco_testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.friscotest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.friscotest.test" />
+      <option name="MAIN_CLASS_NAME" value="pl.friscotest.test.LogInAndRegisterTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SideBarTest.chatStart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Frisco_testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.friscotest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.friscotest.test" />
+      <option name="MAIN_CLASS_NAME" value="pl.friscotest.test.SideBarTest" />
+      <option name="METHOD_NAME" value="chatStart" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SideBarTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Frisco_testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.friscotest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.friscotest.test" />
+      <option name="MAIN_CLASS_NAME" value="pl.friscotest.test.SideBarTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SideBarTest.chatStart" />
+        <item itemvalue="TestNG.SideBarTest.test" />
+        <item itemvalue="TestNG.LogInAndRegisterTest.test" />
+        <item itemvalue="TestNG.LogInAndRegisterTest.allCheckboxesOnRegistrationPage" />
+        <item itemvalue="TestNG.LogInAndRegisterTest.bottomBarOnRegistrationPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="561bd85f-58af-4817-b9c2-187a2cb922fb" name="Changes" comment="" />
+      <created>1664793101113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664793101113</updated>
+      <workItem from="1664793104043" duration="9964000" />
+      <workItem from="1665570454350" duration="3982000" />
+      <workItem from="1665581664432" duration="4394000" />
+      <workItem from="1665654405719" duration="8195000" />
+      <workItem from="1665750988588" duration="3312000" />
+      <workItem from="1666012171597" duration="4827000" />
+      <workItem from="1666090084886" duration="6058000" />
+      <workItem from="1666173625769" duration="6957000" />
+      <workItem from="1666353911343" duration="594000" />
+      <workItem from="1666613059754" duration="7969000" />
+      <workItem from="1666870992693" duration="6851000" />
+      <workItem from="1667489695995" duration="4143000" />
+      <workItem from="1667998763491" duration="9751000" />
+      <workItem from="1668076001457" duration="7111000" />
+      <workItem from="1668426354150" duration="8398000" />
+      <workItem from="1668435549799" duration="907000" />
+      <workItem from="1668509771654" duration="4213000" />
+      <workItem from="1668517569643" duration="2753000" />
+      <workItem from="1668603010343" duration="3750000" />
+      <workItem from="1668779286432" duration="3929000" />
+      <workItem from="1668783979418" duration="37000" />
+      <workItem from="1668867716820" duration="6360000" />
+      <workItem from="1668874716243" duration="82000" />
+      <workItem from="1668874823878" duration="2973000" />
+      <workItem from="1669032720789" duration="8551000" />
+      <workItem from="1669122757220" duration="7708000" />
+      <workItem from="1669288998618" duration="15691000" />
+      <workItem from="1669386478284" duration="5450000" />
+      <workItem from="1669473473613" duration="8366000" />
+      <workItem from="1669484401583" duration="452000" />
+      <workItem from="1670418290250" duration="1397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
