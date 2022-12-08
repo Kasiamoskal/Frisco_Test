@@ -5,29 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="561bd85f-58af-4817-b9c2-187a2cb922fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/testingfriscopage/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/pages/AlertsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/pages/CartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/pages/DeliveryInfoPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/pages/LogInAndRegisterPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/pages/MainShopPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/pages/PaymentMethodsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/pages/SideBarsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/test/CartTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/test/DeliveryInfoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/test/LogInAndRegisterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/test/MainShopTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/test/PaymentMethodsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/test/SideBarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/utils/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/utils/DriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/utils/SeleniumHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/utils/XPathPagesConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/friscotest/test/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/test/CartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/friscotest/utils/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/utils/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/friscotest/utils/SeleniumHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/friscotest/utils/SeleniumHelper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +43,8 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.SideBarTest.chatStart">
-    <configuration name="LogInAndRegisterTest.allCheckboxesOnRegistrationPage" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.CartTest">
+    <configuration name="CartTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Frisco_testing" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +53,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="pl.friscotest.test" />
-      <option name="MAIN_CLASS_NAME" value="pl.friscotest.test.LogInAndRegisterTest" />
-      <option name="METHOD_NAME" value="allCheckboxesOnRegistrationPage" />
+      <option name="MAIN_CLASS_NAME" value="pl.friscotest.test.CartTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartTest.addRecommendedProducts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Frisco_testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.friscotest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.friscotest.test" />
+      <option name="MAIN_CLASS_NAME" value="pl.friscotest.test.CartTest" />
+      <option name="METHOD_NAME" value="addRecommendedProducts" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -80,7 +79,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogInAndRegisterTest.bottomBarOnRegistrationPage" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CartTest.annulPopUpSideCart" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Frisco_testing" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +88,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="pl.friscotest.test" />
-      <option name="MAIN_CLASS_NAME" value="pl.friscotest.test.LogInAndRegisterTest" />
-      <option name="METHOD_NAME" value="bottomBarOnRegistrationPage" />
+      <option name="MAIN_CLASS_NAME" value="pl.friscotest.test.CartTest" />
+      <option name="METHOD_NAME" value="annulPopUpSideCart" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -98,7 +97,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogInAndRegisterTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CartTest.clearSideCart" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Frisco_testing" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +106,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="pl.friscotest.test" />
-      <option name="MAIN_CLASS_NAME" value="pl.friscotest.test.LogInAndRegisterTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="pl.friscotest.test.CartTest" />
+      <option name="METHOD_NAME" value="clearSideCart" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -116,7 +115,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SideBarTest.chatStart" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CartTest.sideCartInfoClose" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Frisco_testing" />
       <extension name="coverage">
         <pattern>
@@ -125,26 +124,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="pl.friscotest.test" />
-      <option name="MAIN_CLASS_NAME" value="pl.friscotest.test.SideBarTest" />
-      <option name="METHOD_NAME" value="chatStart" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SideBarTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Frisco_testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.friscotest.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pl.friscotest.test" />
-      <option name="MAIN_CLASS_NAME" value="pl.friscotest.test.SideBarTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="pl.friscotest.test.CartTest" />
+      <option name="METHOD_NAME" value="sideCartInfoClose" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -154,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SideBarTest.chatStart" />
-        <item itemvalue="TestNG.SideBarTest.test" />
-        <item itemvalue="TestNG.LogInAndRegisterTest.test" />
-        <item itemvalue="TestNG.LogInAndRegisterTest.allCheckboxesOnRegistrationPage" />
-        <item itemvalue="TestNG.LogInAndRegisterTest.bottomBarOnRegistrationPage" />
+        <item itemvalue="TestNG.CartTest" />
+        <item itemvalue="TestNG.CartTest.clearSideCart" />
+        <item itemvalue="TestNG.CartTest.sideCartInfoClose" />
+        <item itemvalue="TestNG.CartTest.addRecommendedProducts" />
+        <item itemvalue="TestNG.CartTest.annulPopUpSideCart" />
       </list>
     </recent_temporary>
   </component>
@@ -201,6 +182,7 @@
       <workItem from="1669473473613" duration="8366000" />
       <workItem from="1669484401583" duration="452000" />
       <workItem from="1670418290250" duration="1397000" />
+      <workItem from="1670505033724" duration="6903000" />
     </task>
     <servers />
   </component>

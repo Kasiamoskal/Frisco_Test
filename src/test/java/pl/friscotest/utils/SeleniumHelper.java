@@ -22,7 +22,6 @@ public class SeleniumHelper {
         wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         js = (JavascriptExecutor) driver;
         actions = new Actions(driver);
-
         wait.ignoring(StaleElementReferenceException.class);
     }
 
